@@ -1,0 +1,9 @@
+[package]
+name = "block"
+version = "0.1.0"
+authors = ["Jan"]
+
+[dependencies]
+blake2-rfc = "0.2"
+structopt = "0.2"
+capstone = "0.2"
